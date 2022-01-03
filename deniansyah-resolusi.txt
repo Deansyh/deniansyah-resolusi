@@ -2,7 +2,7 @@ DENIANSYAH RESOLUSI
 
 (Ini Semua akan saya simpan di GItHub)
 
-- Mengulang belajar html
-- Mengulang belajar css
+- Mengulang belajar html & css
 - Belajar dasar PHP
 - Belajar dasar Javascript
+- Belajar Database
