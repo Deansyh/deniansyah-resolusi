@@ -3,9 +3,12 @@ RECANA BELAJAR DENIANSYAH
 - Belajar Framework Laravel
  * Tanggal 6
  * Web merch shop
-  ^ Angular
+  ^ View
   ^ React
+- Struktur Data Dasar
+  ^ Laravel
 - Belajar PHP Framework
   ^ Laravel
 - Interview
 - Vlog
+- Python
